@@ -52,3 +52,44 @@
     padding-bottom: 30px;
 }
 
+/* recap styles */
+.recap {
+    text-align: right;
+    padding-left: 700px;
+    background-image: url('../images/person.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.recap-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-right: 150px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.recap-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    text-align: left;
+    padding-right: 100px;
+    margin-bottom: 20px;
+}
+
+.recap ul{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    list-style: none;
+    text-align: left;
+    padding-left: 0px;
+}
+
+.recap li{
+    margin: 5px 0;
+}
