@@ -154,3 +154,41 @@ padding-top: 60px;
     margin-left: 50px;
     margin-top: 10px;
 }
+
+.footer{
+    background-color: #000000;
+    color: #FFFFFF;
+    display: flex;
+    gap: 10px;
+    padding: 100px 30px;
+}
+
+.future{
+    padding-right: 500px;
+}
+
+.future h1, p{
+    padding-bottom: 20px;
+}
+
+.future a{
+    text-decoration: none;
+}
+
+.subscribe{
+    padding-left: 50px;
+    margin-right: 50px;
+}
+
+.subscribe h2{
+    padding-bottom: 30px;
+}
+
+.subscribe input{
+    margin-bottom: 24px;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    width: 100%;
+    padding: 18px 30px;
+    background-color: #000000;
+}
